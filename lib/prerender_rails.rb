@@ -28,7 +28,8 @@ module Rack
         'vkShare',
         'W3C_Validator',
         'redditbot',
-        'Applebot'
+        'Applebot',
+        'Naverbot'
       ]
 
       @extensions_to_ignore = [
